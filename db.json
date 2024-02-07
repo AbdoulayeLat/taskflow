@@ -1,0 +1,44 @@
+{
+  "tasks":[
+    {
+      "title":"Task 1",
+      "boardID":"TaskFlow Board",
+      "description":"Need to implement some additional features.",
+      "status": "Not Started"
+    },
+    {
+      "title":"Task 2",
+      "boardID":"TaskFlow Board",
+      "description":"Need to design the mobile version!",
+      "status": "Not Started"
+    },
+    {
+      "title":"Task 3",
+      "boardID":"Dev Learning",
+      "description":"Start working on AWS Certification",
+      "status": "Not Started"
+    },
+    {
+      "title":"Task 4",
+      "boardID":"Dev Learning",
+      "description":"Work on leetcode",
+      "status": "Not Started"
+    },
+    {
+      "title":"Task 5",
+      "boardID":"Dev Learning",
+      "description":"Build additional websites for portfolio. Chatting webapp is next",
+      "status": "Not Started"
+    }
+  ],
+  "boards":[
+    {
+      "title":"TaskFlow Board"
+    },
+    {
+      "title":"Dev Learning"
+    }
+  ]
+}
+
+
